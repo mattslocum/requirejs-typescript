@@ -1,0 +1,25 @@
+{
+  "name": "requirejs-typescript",
+  "version": "0.1.0",
+  "author": "Matt Slocum",
+  "description": "",
+  "keywords": [
+    "require",
+    "requirejs",
+    "typescript",
+    "javascript",
+    "amd",
+    "es6",
+    "module"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattslocum/requirejs-typescript"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-header": "^1.7.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
